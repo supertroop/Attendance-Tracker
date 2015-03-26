@@ -1,5 +1,5 @@
 //Nick Anderssohn
-//Hunter ...Idk your last name
+//
 
 int main (void)
 {
