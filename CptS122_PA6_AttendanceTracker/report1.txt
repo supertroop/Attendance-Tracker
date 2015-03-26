@@ -1,0 +1,58 @@
+Name: Mort,Kris
+Email: mort@cpts122.edu
+Number of absences: 1
+Dates of absence:
+	2015-3-20
+Name: Willis,Bruce
+Email: brucewillis@cpts122.edu
+Number of absences: 1
+Dates of absence:
+	2015-3-21
+Name: Smith,Jane
+Email: jane@cpts122.edu
+Number of absences: 0
+Dates of absence:
+	None.
+Name: Sam,Theo
+Email: samt@cpts122.edu
+Number of absences: 1
+Dates of absence:
+	2015-3-23
+Name: Payton,Ella
+Email: epayton@cpts122.edu
+Number of absences: 2
+Dates of absence:
+	2015-3-21
+	2015-3-23
+Name: James,Hannah
+Email: jameshannah@cpts122.edu
+Number of absences: 2
+Dates of absence:
+	2015-3-21
+	2015-3-23
+Name: Art,Bruce
+Email: bart@cpts122.edu
+Number of absences: 2
+Dates of absence:
+	2015-3-20
+	2015-3-21
+Name: Leinart,Timothy
+Email: tim@cpts122.edu
+Number of absences: 2
+Dates of absence:
+	2015-3-20
+	2015-3-21
+Name: Beck,Sara
+Email: sara@cpts122.edu
+Number of absences: 3
+Dates of absence:
+	2015-3-20
+	2015-3-21
+	2015-3-23
+Name: Smith,John
+Email: smithj@cpts122.edu
+Number of absences: 3
+Dates of absence:
+	2015-3-20
+	2015-3-21
+	2015-3-23
